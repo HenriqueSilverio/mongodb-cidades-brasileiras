@@ -1,2 +1,3 @@
-# mongo-cidades-brasileiras
-Script em mongodb para insert de todas as cidades brasileiras separadas por estado
+# MongoDB: Estados e Cidades do Brasil
+
+Script insert para MongoDB com todas as cidades brasileiras separadas por estado.
